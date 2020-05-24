@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-05-24T18:40:35+02:00</updated><id>/feed.xml</id><title type="html"></title><subtitle>My personal website.</subtitle><author><name>Wai kon Tse</name><email>waikon at waikontse dot info</email></author><entry><title type="html">Flow - Worst methodology ever</title><link href="/blog/software%20development/flow-methodology/" rel="alternate" type="text/html" title="Flow - Worst methodology ever" /><published>2019-10-16T00:00:00+02:00</published><updated>2019-10-16T00:00:00+02:00</updated><id>/blog/software%20development/flow-methodology</id><content type="html" xml:base="/blog/software%20development/flow-methodology/">&lt;p&gt;A satirical talk about current agile practices in the real world.
+Both funny and satisfying as the same moment.
+Throwing jabs at tools and methodologies that managers accepts as holy.&lt;/p&gt;
+
+&lt;p&gt;Satire aside, the talks highlights anti-patterns in the current agile practices.
+Things that we as developers perceive as non-productive, but only as a gut feeling, the authors provides evidence.&lt;/p&gt;
+
+&lt;p&gt;To conclude the talk, the authors provided tips and guides as how to approach software development as originally intended by the agile manifesto.
+Personally, the best advice given was to just pick the things that work for your team and situation.
+There is no one-size fits all. Empower the team, give them more autonomy.
+No blame culture, empower them to learn and try new stuff.
+Don’t introduce fear, fear is a powerful emotion and makes people go on the defensive and diminishes productivity.&lt;/p&gt;
+
+&lt;p&gt;Bring in change in baby steps, change makes people defensive.
+Change means moving out of your comfort zone and brings emotional stress with it.&lt;/p&gt;
+
+&lt;p&gt;Resources: &lt;a href=&quot;https://speakerdeck.com/aahoogendoorn/flow-the-official-worst-software-development-approach-in-history&quot;&gt;1&lt;/a&gt;, &lt;a href=&quot;http://kimvanwilgen.com/&quot;&gt;2&lt;/a&gt;, &lt;a href=&quot;https://agilemanifesto.org/&quot;&gt;3&lt;/a&gt;&lt;/p&gt;</content><author><name>Wai kon Tse</name><email>waikon at waikontse dot info</email></author><category term="flow" /><category term="Kim van Wilgen" /><category term="Sander Hoogendoorn" /><summary type="html">A satirical talk about current agile practices in the real world. Both funny and satisfying as the same moment. Throwing jabs at tools and methodologies that managers accepts as holy.</summary></entry></feed>
